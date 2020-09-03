@@ -1,0 +1,15 @@
+C:\Users\Daniel\dev\dotnet core\drawingWF\bin\Debug\netcoreapp3.1\drawingWF.exe
+C:\Users\Daniel\dev\dotnet core\drawingWF\bin\Debug\netcoreapp3.1\drawingWF.deps.json
+C:\Users\Daniel\dev\dotnet core\drawingWF\bin\Debug\netcoreapp3.1\drawingWF.runtimeconfig.json
+C:\Users\Daniel\dev\dotnet core\drawingWF\bin\Debug\netcoreapp3.1\drawingWF.runtimeconfig.dev.json
+C:\Users\Daniel\dev\dotnet core\drawingWF\bin\Debug\netcoreapp3.1\drawingWF.dll
+C:\Users\Daniel\dev\dotnet core\drawingWF\bin\Debug\netcoreapp3.1\drawingWF.pdb
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.csprojAssemblyReference.cache
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.Form1.resources
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.csproj.GenerateResource.cache
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.AssemblyInfoInputs.cache
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.AssemblyInfo.cs
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.dll
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.pdb
+C:\Users\Daniel\dev\dotnet core\drawingWF\obj\Debug\netcoreapp3.1\drawingWF.genruntimeconfig.cache
